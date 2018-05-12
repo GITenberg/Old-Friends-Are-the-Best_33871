@@ -1,0 +1,33 @@
+_repo: Old-Friends-Are-the-Best_33871
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+description: Humankind's excursion to the moon in the mid-twentieth century was hailed
+  as a major technological achievement. In the version of events that unfolds in Jack
+  Sharkey's tale ""Old Friends Are the Best, "" a souvenir of that renowned moonwalk
+  is brought back to Earth -- with dire and far-reaching consequences that no one
+  could have predicted.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Old Friends Are the Best
+url: http://www.gutenberg.org/ebooks/33871
